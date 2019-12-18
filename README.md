@@ -34,13 +34,19 @@ MXE (M cross environment) is a Makefile that compiles a cross compiler and cross
 
 [Wiki - Verilog](https://en.wikipedia.org/wiki/Verilog)
 
+### Misc
+
+[GeeksforGeeks - A computer science portal for geeks](https://www.geeksforgeeks.org/)
+
 ## Projects
 
-[GitHub - RISC-V](https://github.com/riscv) or [RISC-V: The Free and Open RISC Instruction Set Architecture](https://riscv.org/)
+[GitHub - RISC-V](https://github.com/riscv)
+
+[RISC-V: The Free and Open RISC Instruction Set Architecture](https://riscv.org/)
 
 ## Software
 
-1. https://alternativeto.net/software/teamviewer/
+[TeamViewer](https://alternativeto.net/software/teamviewer/)
 
 [SE-SOFT: SE-Explorer, SE-DesktopApps, etc](http://se-soft.com)
 
@@ -76,7 +82,11 @@ MXE (M cross environment) is a Makefile that compiles a cross compiler and cross
 
 ## Patent
 
-[专利检索 - 国家知识产权局综合服务平台](http://www.sipo.gov.cn/zhfwpt/zljs/) or [其他国家局专利检索入口](http://www.sipo.gov.cn/zhfwpt/zljs/qtgjzljsrk/) or [国家知识产权局](http://www.sipo.gov.cn/)
+[专利检索 - 国家知识产权局综合服务平台](http://www.sipo.gov.cn/zhfwpt/zljs/) 
+
+[其他国家局专利检索入口](http://www.sipo.gov.cn/zhfwpt/zljs/qtgjzljsrk/) 
+
+[国家知识产权局](http://www.sipo.gov.cn/)
 
 ## Mirrors
 
