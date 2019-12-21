@@ -1,17 +1,42 @@
 # 目录
-
+- [FPGA](#FPGA)
 - [Language](#Language)
+- [Projects](#Projects)
+- [Tools](#Tools)
+- [Mirrors](#Mirrors)
+- [Kids](#Kids)
 - [网址](#网址)
   - [Technology](#Technology)
   - [Software](#Software)
   - [Lectures](#Lectures)
   - [Papers](#Papers)
-  - [Mirrors](#Mirrors)
+  - [Misc](#Misc)
+
+# FPGA
+[FPGA](fpga/README.md)
 
 # Language
+[c++](language/cplusplus.md) - C & C++
+
+[HDL](language/HDL.md) - Verilog & VHDL
+
 [MarkDown](language/MarkDown.md)
 
 [Lisp](language/Lisp.md)
+
+# Projects
+[Projects](projects/README.md)
+
+# Tools
+[dev_tools](dev_tools/README.md)
+
+[eda_tools](eda_tools/README.md)
+
+# Mirrors
+[Mirrors](mirrors/README.md)
+
+# Kids
+[Kids](kids/README.md)
 
 # 网址
 ## Technology
@@ -20,27 +45,9 @@
 
 MXE (M cross environment) is a Makefile that compiles a cross compiler and cross compiles many free libraries such as SDL and Qt.
 
-### FPGA
-
-[ABC: A System for Sequential Synthesis and Verification](https://people.eecs.berkeley.edu/~alanmi/abc/) or [GitHub - berkeley-abc](https://github.com/berkeley-abc/abc)
-
-[OpenCores - The reference community for Free and Open Source gateware IP cores](https://opencores.org)
-
-### Verilog & VHDL
-
-[EBNF Syntax: Verilog 2001](http://www.externsoft.ch/download/verilog.html)
-
-[Wiki - Verilog](https://en.wikipedia.org/wiki/Verilog)
-
 ### Misc
 
 [GeeksforGeeks - A computer science portal for geeks](https://www.geeksforgeeks.org/)
-
-## Projects
-
-[GitHub - RISC-V](https://github.com/riscv)
-
-[RISC-V: The Free and Open RISC Instruction Set Architecture](https://riscv.org/)
 
 ## Software
 
@@ -85,26 +92,6 @@ MXE (M cross environment) is a Makefile that compiles a cross compiler and cross
 [其他国家局专利检索入口](http://www.sipo.gov.cn/zhfwpt/zljs/qtgjzljsrk/) 
 
 [国家知识产权局](http://www.sipo.gov.cn/)
-
-## Mirrors
-
-| 名称 | 网址 |
-|------------- | -------------- |
-| 清华大学开源软件镜像站 | https://mirror.tuna.tsinghua.edu.cn/ |
-| 中国官方镜像网站 - USTC Open Source Software | http://mirrors.ustc.edu.cn/ |
-| 东软信息学院 | http://mirrors.neusoft.edu.cn/ |
-| 阿里云开源镜像站 | https://opsx.alibaba.com/mirror |
-| 华为开源镜像站 | https://mirrors.huaweicloud.com/ |
-| 网易开源镜像站 | http://mirrors.163.com/ |
-| 淘宝 NPM 镜像 | https://npm.taobao.org/ |
-| 浙江大学开源镜像站 | http://mirrors.zju.edu.cn/) |
-| 重庆大学镜像站 | http://mirrors.cqu.edu.cn |
-| 兰州大学镜像站 | http://mirror.lzu.edu.cn |
-| 北京交通大学自由与开源软件镜像站 | https://mirror.bjtu.edu.cn/ |
-
-[Gitlab Runner 镜像使用帮助](https://mirror.tuna.tsinghua.edu.cn/help/gitlab-runner/)
-
-[各大开源软件镜像源](https://blog.csdn.net/runatworld/article/details/81541708)
 
 ## Misc
 
