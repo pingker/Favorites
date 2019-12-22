@@ -2,7 +2,10 @@
 - [FPGA](#FPGA)
 - [Language](#Language)
 - [Projects](#Projects)
+- [Research](#Research)
 - [Tools](#Tools)
+  - [dev_tools](#dev_tools)
+  - [eda_tools](#eda_tools)
 - [Mirrors](#Mirrors)
 - [Kids](#Kids)
 - [网址](#网址)
@@ -27,9 +30,15 @@
 # Projects
 [Projects](projects/README.md)
 
+# Research
+[Research](research/README.md)
+
 # Tools
+## dev_tools
+[cmake usage](dev_tools/cmake.md)
 [dev_tools](dev_tools/README.md)
 
+## eda_tools
 [eda_tools](eda_tools/README.md)
 
 # Mirrors
