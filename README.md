@@ -23,7 +23,7 @@
 
 [HDL](language/HDL.md) - Verilog & VHDL
 
-[MarkDown](language/MarkDown.md)
+[MarkDown](language/MarkDown.md)  [GitHub Wiki TOC generator](https://ecotrust-canada.github.io/markdown-toc/)
 
 [Lisp](language/Lisp.md)
 
