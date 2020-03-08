@@ -7,10 +7,6 @@
 
 [ePUBw.COM](https://epubw.com/)
 
-[List of Free Learning Resources](https://github.com/EbookFoundation/free-programming-books)
-
-[Free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md)
-
 [书享家](http://shuxiangjia.cn/) 电子书下载导航（网址导航）
 
 [走读派](http://www.zoudupai.com/)  读书网址导航
@@ -19,18 +15,26 @@
 
 [书伴](https://bookfere.com/) 原名“Kindle伴侣”，能让你更加深入地使用手中的Kindle阅读器
 
+[Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
+
+[ZLibrary](https://b-ok.cc/) The world's largest ebook library
+
 
 # IT
 
+[SCI-Hub](https://sci-hub.tw/) [可用网址链接 - 实时更新](http://tool.yovisun.com/scihub/)
+
 [All IT eBooks](http://www.allitebooks.org/)
 
-[FreeTechBooks](https://www.freetechbooks.com/)Database of Free / Open Access Online Computer Science Books, Textbooks, and Lecture Notes
+[FreeTechBooks](https://www.freetechbooks.com/) Database of Free / Open Access Online Computer Science Books, Textbooks, and Lecture Notes
 
-[FreeComputerBooks.com](http://freecomputerbooks.com/)Free Computer, Mathematics, Technical Books and Lecture Notes, etc.
+[List of Free Learning Resources](https://github.com/EbookFoundation/free-programming-books)
 
-[免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
+[Free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md)
 
-[SCI-Hub](https://sci-hub.tw/) [可用网址链接 - 实时更新](http://tool.yovisun.com/scihub/)
+[FreeComputerBooks.com](http://freecomputerbooks.com/) Free Computer, Mathematics, Technical Books and Lecture Notes, etc.
+
+[免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN) - 并由[编程类中文开源电子书合集 - 开源工场](https://openingsource.org/1137/) 整理
 
 [红黑联盟读书频道](http://book.2cto.com/) IT技术图书在线阅读（试读）
 
@@ -38,12 +42,16 @@
 
 [计算机书籍控](http://bestcbooks.com/)
 
+[SecWiki](https://www.sec-wiki.com/news?tag=books) 技术类书箱
+
+[Library Genesis](https://libgen.is/)  For detial see [Library Genesis Guide](https://librarygenesis.net/)
+
 
 # 搜索
 
 [搬书匠](http://www.banshujiang.cn/) 计算机类书箱
 
-[西林街](https://xilinjie.cc/)
+[西林街](https://xilinjie.cc/) 
 
 [鸠摩搜索](https://www.jiumodiary.com/) 文档搜索引擎
 
