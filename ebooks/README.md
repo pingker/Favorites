@@ -5,6 +5,14 @@
 
 [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/) by Stuart Russell and Peter Norvig
 
+## C/C++
+
+### Modern C++
+
+[c++11/14/17标准你了解多少](https://blog.csdn.net/xiaomu_347/article/details/82563688) - [英文](https://docs.microsoft.com/en-us/previous-versions/hh567368(v=vs.140)?redirectedfrom=MSDN#featurelist)
+
+[高速上手 C++11/14](https://changkun.gitbook.io/cpp1x-tutorial/)
+
 # 综合
 
 [布克书屋](https://www.bukebook.cn/)
