@@ -1,4 +1,10 @@
 
+# 图书
+
+## AI (Artificial Intelligence)
+
+[Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/) by Stuart Russell and Peter Norvig
+
 # 综合
 
 [布克书屋](https://www.bukebook.cn/)
@@ -20,7 +26,7 @@
 [ZLibrary](https://b-ok.cc/) The world's largest ebook library
 
 
-# IT
+# IT 类
 
 [SCI-Hub](https://sci-hub.tw/) [可用网址链接 - 实时更新](http://tool.yovisun.com/scihub/)
 
